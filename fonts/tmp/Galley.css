@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Galley';
+    src: url('fonts/Galley.eot');
+    src: url('fonts/Galley.eot') format('embedded-opentype'),
+         url('fonts/Galley.woff2') format('woff2'),
+         url('fonts/Galley.woff') format('woff'),
+         url('fonts/Galley.ttf') format('truetype'),
+         url('fonts/Galley.svg#Galley') format('svg');
+}
